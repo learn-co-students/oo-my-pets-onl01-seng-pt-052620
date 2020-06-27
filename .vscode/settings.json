@@ -1,0 +1,6 @@
+{
+    "ruby.useLanguageServer": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.snippetSuggestions": "top",
+    "emmet.showSuggestionsAsSnippets": true
+}
